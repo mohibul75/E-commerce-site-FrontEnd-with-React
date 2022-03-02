@@ -1,7 +1,7 @@
-version: 0.2
+version: 1.0
 env:
   variables:
-    APP_NAME: "mern-frontend-pipeline"
+    APP_NAME: "dailyshop.buys.ninja"
 phases:
   install:
     runtime-versions:
